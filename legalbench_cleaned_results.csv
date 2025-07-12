@@ -1,0 +1,76 @@
+Source,Query,Model,Strategy,Latency,METEOR,ROUGE,EM,F1,BERTScore,Relevance,Helpfulness
+LegalBench,"If a contract is not signed, is it enforceable?",gpt-4o,tree_of_thought,13.8,0.07,0.56,0.0,0.05,0.81,3,5
+LegalBench,"If a contract is not signed, is it enforceable?",gpt-4o,few_shot,4.62,0.16,0.44,0.0,0.09,0.84,4,3
+LegalBench,"If a contract is not signed, is it enforceable?",gpt-4o,react,9.82,0.08,0.33,0.0,0.03,0.81,3,3
+LegalBench,"If a contract is not signed, is it enforceable?",claude-3-opus-20240229,tree_of_thought,13.74,0.07,0.44,0.0,0.06,0.81,5,5
+LegalBench,"If a contract is not signed, is it enforceable?",claude-3-opus-20240229,few_shot,7.71,0.12,0.44,0.0,0.07,0.83,5,4
+LegalBench,"If a contract is not signed, is it enforceable?",claude-3-opus-20240229,react,12.04,0.1,0.56,0.0,0.08,0.82,3,4
+LegalBench,"If a contract is not signed, is it enforceable?",tiny-llama,tree_of_thought,4.94,0.15,0.22,0.0,0.08,0.81,3,3
+LegalBench,"If a contract is not signed, is it enforceable?",tiny-llama,few_shot,4.93,0.11,0.22,0.0,0.09,0.82,5,3
+LegalBench,"If a contract is not signed, is it enforceable?",tiny-llama,react,4.22,0.12,0.0,0.0,0.0,0.82,5,3
+LegalBench,"If a contract is not signed, is it enforceable?",gemma,tree_of_thought,7.83,0.12,0.0,0.0,0.0,0.81,4,5
+LegalBench,"If a contract is not signed, is it enforceable?",gemma,few_shot,8.32,0.13,0.44,0.0,0.14,0.82,4,5
+LegalBench,"If a contract is not signed, is it enforceable?",gemma,react,7.87,0.09,0.0,0.0,0.0,0.81,4,3
+LegalBench,"If a contract is not signed, is it enforceable?",phi-2,tree_of_thought,9.03,0.17,0.44,0.0,0.12,0.83,5,3
+LegalBench,"If a contract is not signed, is it enforceable?",phi-2,few_shot,9.03,0.11,0.33,0.0,0.16,0.82,3,3
+LegalBench,"If a contract is not signed, is it enforceable?",phi-2,react,7.75,0.13,0.11,0.0,0.04,0.8,5,5
+LegalBench,What makes an offer legally binding?,gpt-4o,tree_of_thought,11.87,0.2,0.65,0.0,0.14,0.84,3,5
+LegalBench,What makes an offer legally binding?,gpt-4o,few_shot,2.61,0.47,0.71,0.0,0.34,0.89,3,3
+LegalBench,What makes an offer legally binding?,gpt-4o,react,8.99,0.19,0.59,0.0,0.12,0.83,5,4
+LegalBench,What makes an offer legally binding?,claude-3-opus-20240229,tree_of_thought,14.01,0.22,0.76,0.0,0.15,0.85,3,5
+LegalBench,What makes an offer legally binding?,claude-3-opus-20240229,few_shot,12.14,0.24,0.59,0.0,0.14,0.85,3,5
+LegalBench,What makes an offer legally binding?,claude-3-opus-20240229,react,12.95,0.23,0.59,0.0,0.14,0.84,5,3
+LegalBench,What makes an offer legally binding?,tiny-llama,tree_of_thought,4.68,0.29,0.47,0.0,0.25,0.85,5,4
+LegalBench,What makes an offer legally binding?,tiny-llama,few_shot,4.62,0.28,0.47,0.0,0.27,0.84,4,4
+LegalBench,What makes an offer legally binding?,tiny-llama,react,4.92,0.25,0.41,0.0,0.24,0.85,5,3
+LegalBench,What makes an offer legally binding?,gemma,tree_of_thought,7.62,0.26,0.47,0.0,0.31,0.83,4,3
+LegalBench,What makes an offer legally binding?,gemma,few_shot,8.04,0.22,0.47,0.0,0.28,0.83,3,5
+LegalBench,What makes an offer legally binding?,gemma,react,8.11,0.22,0.29,0.0,0.27,0.84,4,5
+LegalBench,What makes an offer legally binding?,phi-2,tree_of_thought,9.17,0.3,0.47,0.0,0.28,0.86,5,3
+LegalBench,What makes an offer legally binding?,phi-2,few_shot,8.65,0.24,0.41,0.0,0.24,0.84,3,4
+LegalBench,What makes an offer legally binding?,phi-2,react,7.81,0.36,0.59,0.0,0.27,0.85,4,3
+LegalBench,Is silence considered acceptance in contract law?,gpt-4o,tree_of_thought,9.74,0.18,0.57,0.0,0.09,0.82,5,5
+LegalBench,Is silence considered acceptance in contract law?,gpt-4o,few_shot,3.99,0.2,0.43,0.0,0.12,0.85,3,4
+LegalBench,Is silence considered acceptance in contract law?,gpt-4o,react,7.4,0.14,0.43,0.0,0.09,0.83,5,3
+LegalBench,Is silence considered acceptance in contract law?,claude-3-opus-20240229,tree_of_thought,11.48,0.22,0.64,0.0,0.12,0.82,5,5
+LegalBench,Is silence considered acceptance in contract law?,claude-3-opus-20240229,few_shot,10.76,0.22,0.57,0.0,0.12,0.83,3,5
+LegalBench,Is silence considered acceptance in contract law?,claude-3-opus-20240229,react,11.08,0.19,0.64,0.0,0.12,0.83,5,3
+LegalBench,Is silence considered acceptance in contract law?,tiny-llama,tree_of_thought,5.05,0.17,0.29,0.0,0.18,0.82,4,3
+LegalBench,Is silence considered acceptance in contract law?,tiny-llama,few_shot,4.95,0.1,0.21,0.0,0.11,0.82,3,5
+LegalBench,Is silence considered acceptance in contract law?,tiny-llama,react,4.91,0.19,0.29,0.0,0.15,0.83,5,3
+LegalBench,Is silence considered acceptance in contract law?,gemma,tree_of_thought,7.62,0.08,0.21,0.0,0.17,0.81,4,5
+LegalBench,Is silence considered acceptance in contract law?,gemma,few_shot,7.85,0.11,0.29,0.0,0.14,0.82,4,5
+LegalBench,Is silence considered acceptance in contract law?,gemma,react,7.95,0.1,0.21,0.0,0.21,0.82,4,3
+LegalBench,Is silence considered acceptance in contract law?,phi-2,tree_of_thought,8.14,0.14,0.36,0.0,0.15,0.84,4,3
+LegalBench,Is silence considered acceptance in contract law?,phi-2,few_shot,7.93,0.26,0.36,0.0,0.14,0.82,4,4
+LegalBench,Is silence considered acceptance in contract law?,phi-2,react,7.68,0.12,0.29,0.0,0.1,0.83,3,3
+LegalBench,Can minors enter into binding contracts?,gpt-4o,tree_of_thought,17.13,0.19,0.62,0.0,0.08,0.83,4,3
+LegalBench,Can minors enter into binding contracts?,gpt-4o,few_shot,2.98,0.5,0.62,0.0,0.21,0.89,4,3
+LegalBench,Can minors enter into binding contracts?,gpt-4o,react,5.85,0.25,0.62,0.0,0.11,0.84,5,5
+LegalBench,Can minors enter into binding contracts?,claude-3-opus-20240229,tree_of_thought,13.17,0.27,0.69,0.0,0.12,0.83,5,5
+LegalBench,Can minors enter into binding contracts?,claude-3-opus-20240229,few_shot,4.59,0.33,0.62,0.0,0.21,0.87,4,3
+LegalBench,Can minors enter into binding contracts?,claude-3-opus-20240229,react,10.4,0.3,0.69,0.0,0.14,0.85,3,5
+LegalBench,Can minors enter into binding contracts?,tiny-llama,tree_of_thought,4.89,0.13,0.15,0.0,0.06,0.84,4,4
+LegalBench,Can minors enter into binding contracts?,tiny-llama,few_shot,4.94,0.15,0.23,0.0,0.12,0.83,3,4
+LegalBench,Can minors enter into binding contracts?,tiny-llama,react,4.97,0.29,0.38,0.0,0.16,0.84,4,3
+LegalBench,Can minors enter into binding contracts?,gemma,tree_of_thought,7.82,0.15,0.23,0.0,0.1,0.84,4,4
+LegalBench,Can minors enter into binding contracts?,gemma,few_shot,8.1,0.12,0.15,0.0,0.07,0.83,3,5
+LegalBench,Can minors enter into binding contracts?,gemma,react,7.99,0.18,0.23,0.0,0.15,0.83,5,5
+LegalBench,Can minors enter into binding contracts?,phi-2,tree_of_thought,8.57,0.17,0.31,0.0,0.15,0.83,4,3
+LegalBench,Can minors enter into binding contracts?,phi-2,few_shot,8.52,0.13,0.15,0.0,0.06,0.84,3,3
+LegalBench,Can minors enter into binding contracts?,phi-2,react,7.83,0.11,0.08,0.0,0.06,0.82,3,4
+LegalBench,What is consideration in a contract?,gpt-4o,tree_of_thought,9.23,0.13,0.75,0.0,0.1,0.82,3,5
+LegalBench,What is consideration in a contract?,gpt-4o,few_shot,3.6,0.42,0.75,0.0,0.27,0.87,5,3
+LegalBench,What is consideration in a contract?,gpt-4o,react,1.53,0.44,0.75,0.0,0.25,0.88,4,5
+LegalBench,What is consideration in a contract?,claude-3-opus-20240229,tree_of_thought,11.98,0.25,0.83,0.0,0.14,0.83,5,4
+LegalBench,What is consideration in a contract?,claude-3-opus-20240229,few_shot,8.99,0.22,0.83,0.0,0.17,0.84,4,4
+LegalBench,What is consideration in a contract?,claude-3-opus-20240229,react,11.28,0.16,0.75,0.0,0.15,0.83,3,3
+LegalBench,What is consideration in a contract?,tiny-llama,tree_of_thought,6.46,0.24,0.67,0.0,0.3,0.84,4,5
+LegalBench,What is consideration in a contract?,tiny-llama,few_shot,5.07,0.28,0.67,0.0,0.28,0.83,5,3
+LegalBench,What is consideration in a contract?,tiny-llama,react,4.9,0.27,0.58,0.0,0.25,0.83,5,5
+LegalBench,What is consideration in a contract?,gemma,tree_of_thought,8.03,0.28,0.33,0.0,0.29,0.83,5,5
+LegalBench,What is consideration in a contract?,gemma,few_shot,8.28,0.23,0.5,0.0,0.21,0.84,4,5
+LegalBench,What is consideration in a contract?,gemma,react,7.46,0.23,0.33,0.0,0.22,0.82,5,3
+LegalBench,What is consideration in a contract?,phi-2,tree_of_thought,8.16,0.37,0.75,0.0,0.32,0.85,4,4
+LegalBench,What is consideration in a contract?,phi-2,few_shot,7.55,0.38,0.75,0.0,0.27,0.85,3,4
+LegalBench,What is consideration in a contract?,phi-2,react,7.71,0.24,0.67,0.0,0.24,0.84,4,4

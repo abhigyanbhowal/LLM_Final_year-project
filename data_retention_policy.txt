@@ -1,0 +1,17 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww29200\viewh18400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 A data retention policy outlines how an organization manages data over time. It defines how long data is stored, when it is archived, and when it is permanently deleted.\
+\
+Key elements include:\
+- Retention periods based on legal or business needs\
+- Secure storage and access control\
+- Scheduled deletion procedures\
+- Policy review and updates\
+\
+Compliance with privacy laws like GDPR or HIPAA is a critical aspect of data retention policies.\
+}

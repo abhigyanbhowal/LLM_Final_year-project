@@ -1,0 +1,6 @@
+task,input,target
+contracts_nli,"If a contract is not signed, is it enforceable?","No, because mutual agreement and consideration must be present."
+contracts_nli,What makes an offer legally binding?,"A legally binding offer must be definite, communicated, and made with the intention to be bound upon acceptance."
+contracts_nli,Is silence considered acceptance in contract law?,"Generally, silence does not constitute acceptance unless agreed upon or indicated by prior dealings."
+contracts_nli,Can minors enter into binding contracts?,"Generally, contracts with minors are voidable at the minor's discretion, except for necessities."
+contracts_nli,What is consideration in a contract?,"Consideration is something of value exchanged between parties, essential for contract formation."
